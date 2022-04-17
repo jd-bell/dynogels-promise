@@ -22,11 +22,6 @@
       "mocha"
     ]
   },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "license": "MIT",
   "devDependencies": {

@@ -1,3 +1,7 @@
+# JDB fork
+Removed dev tooling to eliminate old package versions
+removed support for creating DynamoDB table
+fix for ExclusiveStartKey, see: https://github.com/clarkie/dynogels/issues/184
 # dynogels-promise
 
 This package was created for two main reasons:
